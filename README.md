@@ -2,7 +2,7 @@
 
 💻 **student | AI Enthusiast | Designer**
 
-I love building web apps, experimenting with AI, and creating elegant user interfaces.  
+I love playing chess and piano, experimenting with AI, and creating useful tuol for everyone.  
 Currently learning **Python, HTML/CSS/JS, and AI integration**.
 
 ---
