@@ -2,7 +2,7 @@
 
 💻 **student | AI Enthusiast | Designer**
 
-I love playing chess and piano, experimenting with AI, and creating useful tuol for everyone.  
+I love playing chess and piano, experimenting with AI, and creating useful tool for everyone.  
 Currently learning **Python, HTML/CSS/JS, and AI integration**.
 
 ---
@@ -15,14 +15,9 @@ Currently learning **Python, HTML/CSS/JS, and AI integration**.
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Tools (that I might know how to use?)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p> Not yet, but will be </p>
