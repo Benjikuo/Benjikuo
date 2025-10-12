@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Benjikuo
+# 👋 Nice to meet you, I'm Benjikuo
 
 💻 **student | AI Enthusiast | Designer**
 
