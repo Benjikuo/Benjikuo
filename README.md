@@ -11,7 +11,7 @@ Currently learning **Python, HTML/CSS/JS, and AI integration**.
 - 🔭 I’m currently working on: **Desktop chess**
 - 🌱 I’m learning: **tkinter**
 - 💬 Ask me about: **chess, magic and paino**
-- ⚡ Fun fact?: I don't have girl friend. However, I believe that there is no need to write random answers just because others have already submitted their papers.
+- ⚡ Fun fact: I don't have girl friend. However, I believe that there is no need to write random answers just because others have already submitted their papers.
 
 ---
 
