@@ -20,5 +20,3 @@ Currently learning **Python, HTML/CSS/JS, and AI integration**.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux" />
 </p>
-
-© 2025 Benjamin Kuo. All Rights Reserved.
