@@ -59,5 +59,5 @@
 <br>
 
 <p align="center"> © 2025 Benjamin Kuo — All rights reserved for <b>this repository</b>. </p>
-<p align="center"> The projects listed below are separate works for showcase purposes only. </p>
+<p align="center"> Referenced projects are separate and may have different licenses. </p>
 
