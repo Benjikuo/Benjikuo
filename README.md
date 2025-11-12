@@ -1,23 +1,39 @@
-# 👋 Nice to meet you, I'm Benjikuo
-
-💻 **student | AI Enthusiast | Designer**
-
-I love playing chess and piano, experimenting with AI, and creating useful tool for everyone.  
-Currently learning **Python, HTML/CSS/JS, and AI integration**.
+<h1 align="center">👋 Hi, I'm <b>Benjikuo</b></h1>
+<p align="center">
+  🎓 <b>Student</b> • 🤖 <b>AI Enthusiast</b> • 🎨 <b>Designer</b>  
+</p>
 
 ---
 
-## 🧠 About Me
-- 🔭 I’m currently working on: **Desktop chess**
-- 🌱 I’m learning: **python / c++**
-- 💬 Ask me about: **chess, magic and paino**
-- ⚡ Fun fact: I don't have girl friend. However, I believe that there is no need to write random answers just because others have already submitted their papers.
-- 🎯 My goal: Make a desktop <del>waifu (x)</del> **assistant**
+### 🧠 About Me  
+💡 I love creating small but useful desktop tools — mixing **Python**, **AI**, and a bit of magic.  
+🎹 I also play piano, design interfaces, and sometimes make weird things just for fun.  
+
+- 🧩 Currently working on: **Desktop Chess**  
+- 🐍 Learning: **Python / C++ / HTML / JS / AI integration**  
+- 🧙‍♂️ Ask me about: **Chess, Magic, or Piano**  
+- ⚡ Fun fact: *I don’t have a girlfriend — but that saves time for debugging.*  
+- 🧠 Goal: Build my own **AI desktop assistant** someday  
 
 ---
 
-## 🛠️ Languages and Tools (that I might know how to use?)
+### 🧰 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux&theme=dark" />
+</p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux" />
+---
+
+### 🎯 What I’m Building
+| 🧩 Project | Description |
+|------------|--------------|
+| 🃏 **Desktop Card Tool** | Display and interact with virtual playing cards |
+| ♟️ **Desktop Chess** | Play chess with friends or an AI on your desktop |
+| 🎲 **2D Dice Simulator** | Realistic dice rolling with physics |
+| ✏️ **Simple Note Tool** | Lightweight sticky notes on desktop |
+
+---
+
+<p align="center">
+  <sub>© 2025 Benjamin Kuo — All rights reserved.</sub>
 </p>
