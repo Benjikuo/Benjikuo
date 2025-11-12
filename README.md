@@ -57,6 +57,7 @@
 | 🖱️ **Keyboard-mouse-cursor-control**        | A program let user control the cursor by using a keyboard. |
 
 <br>
+<br>
 
 <p align="center"> <sub> <b> © 2025 Benjamin Kuo — All rights reserved for this repository. </b> </sub> </p>
 <p align="center"> <sub> <b> Referenced projects are separate and may have different licenses. </b> </sub> </p>
