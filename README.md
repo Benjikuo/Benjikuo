@@ -37,7 +37,7 @@
 
 ### 💾 My Skill Table
 
-| Type | Data |
+| Type | ᔐ/ᐠ.~.ᐟ\ᵐᵉᵒʷˎˊ˗ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |------|------|
 | Languages | Mandarin / English |
 | Programming | C++ / Python / HTML |
