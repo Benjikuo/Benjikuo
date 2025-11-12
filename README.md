@@ -19,7 +19,7 @@
 
 ### 🧠 About Me  
 &gt;&nbsp; Like thinking about challenging problems. That’s why I enjoy playing chess and solving puzzles.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^,,,,^  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&#92;,,,,/&#92;  
 &gt;&nbsp; Love creating interesting programs just for fun! For example, I’ve made desktop toys using Python.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(╹ﻌ╹)   
 &gt;&nbsp; I also play the piano and perform magic tricks. They keep my hands flexible and my mind sharp!
@@ -27,16 +27,22 @@
 
 <br>
 
-- 🧩 Currently working on: **Desktop Chess**  
-- 🐍 Learning: **Python / C++ / HTML / JS / AI integration**  
-- 🧙‍♂️ Ask me about: **Chess, Magic, or Piano**  
-- ⚡ Fun fact: *I don’t have a girlfriend — but that saves time for debugging.*  
-- 🧠 Goal: Build my own **AI desktop assistant** someday  
+- ⌛ **my_age** = 20  
+- 💗 **relationship_status** = 'Single'  
+- 📋 **working_on** = "./ASCII_animation/tkinter/test.py"  
+- 📓 **learning** = ["English", "Japanese", "Python", "Html", "CSS", "JavaScript"]  
+- 🎯 **goal** = build_my_own_AI_desktop_assistant(year=2030)  
 
 <br>
 
-### 🗣️ Languages I know
-*Mandarin* > *English* > **C++** > **Python** > **Html** > **CSS** > *Japanese* > **Javascript**
+### 💾 My Skill Table
+
+| Type | Data |
+|------|------|
+| Languages | Mandarin / English |
+| Programming | C++ / Python / HTML |
+| Interests | Chess / Magic / Piano / Coding |
+| Coming soon | Japanese / Photography / Drawing anime figures |
 
 <br>
 
