@@ -1,9 +1,9 @@
 <h1 align="center">
-  ,___ ,,_ ,,, _ 
-  &nbsp;
-  <b>ℕ</b>ιce t● ოee𝓉 𝑦o𝔲
-  &nbsp;
-  _,, ___&nbsp;&nbsp;&nbsp;,, _
+  lı. ,___ ,,_ ,,, _ 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ,, <b>ℕ</b>ιce t● ოee𝓉 𝑦o𝔲 ,,
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  _,, ___&nbsp;&nbsp;&nbsp;,, _ .ıl
 </h1>
 
 <h3 align="center">I'm 𝗕𝗲𝗻𝗷𝗮𝗺𝗶𝗻 𝗞𝘂𝗼</h3>
@@ -19,11 +19,11 @@
 
 ### 🧠 About Me  
 &gt;&nbsp; Like thinking about challenging problems. That’s why I enjoy playing chess and solving puzzles.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^,,,,^  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^,,,,^  
 &gt;&nbsp; Love creating interesting programs just for fun! For example, I’ve made desktop toys using Python.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(╹ﻌ╹)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(╹ﻌ╹)   
 &gt;&nbsp; I also play the piano and perform magic tricks. They keep my hands flexible and my mind sharp!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ᔐ/>🧩<\  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ᔐ/>🧩<\  
 
 <br>
 
