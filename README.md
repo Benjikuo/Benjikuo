@@ -6,14 +6,14 @@
   _,, ___&nbsp;&nbsp;&nbsp;,, _
 </h1>
 
-<h3 align="center">I'm <b>𝗕𝗲𝗻𝗷𝗮𝗺𝗶𝗻 𝗞𝘂𝗼</b></h3>
+<h3 align="center">I'm 𝗕𝗲𝗻𝗷𝗮𝗺𝗶𝗻 𝗞𝘂𝗼</h3>
 
 <p align="center">
   &nbsp;&nbsp;
   Student
-  &nbsp;&nbsp;x&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;x&nbsp;&nbsp;&nbsp;
   AI Enthusiast
-  &nbsp;&nbsp;x&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;x&nbsp;&nbsp;&nbsp;
   <b>Designer</b>  
 </p>
 
