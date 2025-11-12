@@ -18,9 +18,9 @@
 </p>
 
 ### 🧠 About Me  
-💡 I like to think hard question, so I like to play chess or solving hard puzzles  
-🧑🏻‍💻 I love to make some cool programs just for fun. For example, I made a lot of desktop toys with python.  
-🎹 I also play piano, do magic tricks, so that my hand are become flexible.  
+💡 I like thinking about challenging problems — that’s why I enjoy playing chess and solving puzzles.  
+🧑🏻‍💻 I love creating fun and interesting programs just for fun! For example, I’ve made desktop toys using Python.  
+🎹 I also play the piano and perform magic tricks — they keep my hands flexible and my mind sharp!  
 
 <br>
 
