@@ -9,18 +9,20 @@
 <h3 align="center">I'm 𝗕𝗲𝗻𝗷𝗮𝗺𝗶𝗻 𝗞𝘂𝗼</h3>
 
 <p align="center">
-  &nbsp;&nbsp;
+  &nbsp;
   Student
   &nbsp;&nbsp;&nbsp;x&nbsp;&nbsp;&nbsp;
   AI Enthusiast
   &nbsp;&nbsp;&nbsp;x&nbsp;&nbsp;&nbsp;
-  <b>Designer</b>  
+  Designer
 </p>
 
-### 🧠 About Me  
-💡 I like to think hard question, so I like to play chess or solving hard puzzles
+### 🧠 About Me ฅ^• •^ฅ  
+💡 I like to think hard question, so I like to play chess or solving hard puzzles  
 🧑🏻‍💻 I love to make some cool programs just for fun. For example, I made a lot of desktop toys with python.  
-🎹 I also play piano, do magic tricks, so that my hand are become flexible.
+🎹 I also play piano, do magic tricks, so that my hand are become flexible.  
+
+<br>
 
 - 🧩 Currently working on: **Desktop Chess**  
 - 🐍 Learning: **Python / C++ / HTML / JS / AI integration**  
@@ -31,7 +33,7 @@
 <br>
 
 ### 🗣️ Languages I know
-Mandarin > English > **C++** > **Python** > **Html** > **CSS** > Japanese > **Javascript**
+*Mandarin* > *English* > **C++** > **Python** > **Html** > **CSS** > *Japanese* > **Javascript**
 
 <br>
 
