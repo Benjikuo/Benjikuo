@@ -1,9 +1,9 @@
 <h1 align="center">
-  lı. ,___ ,,_ ,,, _ 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ,, <b>ℕ</b>ιce t● ოee𝓉 𝑦o𝔲 ,,
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  _,, ___&nbsp;&nbsp;&nbsp;,, _ .ıl
+  ,___ ,,_ ,,, _ 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ༝&nbsp;&nbsp;<b>ℕ</b>ιce t● ოee𝓉 𝑦o𝔲&nbsp;&nbsp;༝
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  _,, ___&nbsp;&nbsp;&nbsp;,, _
 </h1>
 
 <h3 align="center">I'm 𝗕𝗲𝗻𝗷𝗮𝗺𝗶𝗻 𝗞𝘂𝗼</h3>
