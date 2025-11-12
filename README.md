@@ -31,7 +31,7 @@
 <br>
 
 ### 🗣️ Languages I know
-Mandarin > English > C++ > Python > Html > CSS > Japanese > Javascript
+Mandarin > English > **C++** > **Python** > **Html** > **CSS** > Japanese > **Javascript**
 
 <br>
 
