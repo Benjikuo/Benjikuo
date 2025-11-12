@@ -58,6 +58,6 @@
 
 <br>
 
-<p align="center"> © 2025 Benjamin Kuo — All rights reserved for <b>this repository</b>. </p>
-<p align="center"> Referenced projects are separate and may have different licenses. </p>
+<p align="center"> <sub> © 2025 Benjamin Kuo — All rights reserved for <b>this repository</b>. </sub> </p>
+<p align="center"> <sub> Referenced projects are separate and may have different licenses. </sub> </p>
 
