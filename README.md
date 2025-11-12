@@ -1,9 +1,8 @@
-<h1 align="center">👋 Hi, I'm <b>Benjikuo</b></h1>
+<h1 align="center">„ <b>ℕ</b>ιce t● ოee𝓉 𝑦o𝔲 „</h1>
+<h3 align="center">I'm Benjamin Kuo</h3>
 <p align="center">
-  🎓 <b>Student</b> • 🤖 <b>AI Enthusiast</b> • 🎨 <b>Designer</b>  
+  <b>Student</b> x <b>AI Enthusiast</b> x <b>Designer</b>  
 </p>
-
----
 
 ### 🧠 About Me  
 💡 I love creating small but useful desktop tools — mixing **Python**, **AI**, and a bit of magic.  
