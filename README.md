@@ -46,16 +46,18 @@
 
 <br>
 
-### 🎯 What I’m Building
-| 🧩 Project | Description |
-|------------|--------------|
-| 🃏 **Desktop Card Tool** | Display and interact with virtual playing cards |
-| ♟️ **Desktop Chess** | Play chess with friends or an AI on your desktop |
-| 🎲 **2D Dice Simulator** | Realistic dice rolling with physics |
-| ✏️ **Simple Note Tool** | Lightweight sticky notes on desktop |
+### 📁 Featured Projects
+| Project | Description |
+|---------|-------------|
+| 🃏 **A-desktop-card-tool-for-magic-tricks** | This is a program that allows a magician to select a random or specific card on a computer desktop. |
+| ♟️ **Play-chess-on-desktop**                | A desktop program that lets users play chess either against others or a simple AI. |
+| 🎲 **2D-dice-on-desktop**                   | A small dice on desktop which can be thrown by clicking or dragging it. |
+| 🔢 **Matrix-generator-for-magic-trick**     | It helps magicians memorize the mathematical formula used in a mind-reading magic trick. |
+| 📝 **A-simple-desktop-note-tool**           | A lightweight Python desktop note-taking program. |
+| 🖱️ **Keyboard-mouse-cursor-control**        | A program let user control the cursor by using a keyboard. |
 
 <br>
 
 <p align="center">
-  <sub>© 2025 Benjamin Kuo — All rights reserved.</sub>
+  © 2025 Benjamin Kuo — All rights reserved.
 </p>
