@@ -1,5 +1,13 @@
-<h1 align="center">„ <b>ℕ</b>ιce t● ოee𝓉 𝑦o𝔲 „</h1>
+<h1 align="center">
+  ,___ ,,_ ,,, _ 
+  &nbsp;&nbsp;&nbsp;
+  <b>ℕ</b>ιce t● ოee𝓉 𝑦o𝔲
+  &nbsp;&nbsp;&nbsp;
+  _,, ___&nbsp;&nbsp;&nbsp;,, _
+</h1>
+
 <h3 align="center">I'm Benjamin Kuo</h3>
+<br>
 <p align="center">
   <b>Student</b> x <b>AI Enthusiast</b> x <b>Designer</b>  
 </p>
