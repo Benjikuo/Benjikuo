@@ -29,7 +29,7 @@
 
 - ⌛ **my_age** = 20  
 - 💌 **relationship_status** = 'Single'  
-- 📋 **working_on** = "./ASCII_animation/tkinter/test.py"  
+- 📋 **working_on** = "./desktop_pen/tkinter/test.py"  
 - 📓 **learning** = ["English", "Japanese", "Python", "Html", "CSS", "JavaScript"]  
 - 🎯 **goal** = build_my_own_AI_desktop_assistant(year=2030)  
 
