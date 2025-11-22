@@ -57,7 +57,7 @@
 | ✏️ [**Desktop-screen-pen**](https://github.com/Benjikuo/Desktop-screen-pen)                                     | It allows users to draw freely on the top layer of the screen. |
 | 🔢 [**Matrix-generator-for-magic-trick**](https://github.com/Benjikuo/Matrix-generator-for-magic-trick)         | It helps magicians memorize the mathematical formula used in a mind-reading magic trick. |
 | 🖱️ [**Keyboard-mouse-cursor-control**](https://github.com/Benjikuo/Keyboard-mouse-cursor-control)               | A program let user control the cursor by using a keyboard. |
-| 📝 [**A-simple-desktop-note-tool**](https://github.com/Benjikuo/A-simple-desktop-note-tool)                     | A lightweight Python desktop note-taking program. (My first open-source project) |
+| 📝 [**A-simple-desktop-note-tool**](https://github.com/Benjikuo/A-simple-desktop-note-tool)                     | A lightweight Python desktop note-taking program. **(My first open-source project)** |
 
 <br>
 <br>
