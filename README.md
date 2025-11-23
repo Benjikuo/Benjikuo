@@ -54,7 +54,7 @@
 | ♟️ [**Play-chess-on-desktop**](https://github.com/Benjikuo/Play-chess-on-desktop)                               | A desktop program that lets users play chess either against others or a simple AI. |
 | 🎂 [**Digital-happy-birthday-card**](https://github.com/Benjikuo/Digital-happy-birthday-card)                   | A digital birthday card created with p5.js that can be viewed through a web link. |
 | 🎲 [**2D-dice-on-desktop**](https://github.com/Benjikuo/2D-dice-on-desktop)                                     | A small dice on desktop which can be thrown by clicking or dragging it. |
-| ✏️ [**Desktop-screen-pen**](https://github.com/Benjikuo/Desktop-screen-pen)                                     | It allows users to draw freely on the top layer of the screen. |
+| ✏️ [**Desktop-screen-pen**](https://github.com/Benjikuo/Desktop-screen-pen)                                     | A tool that allows users to draw anywhere on the screen. |
 | 🔢 [**Matrix-generator-for-magic-trick**](https://github.com/Benjikuo/Matrix-generator-for-magic-trick)         | It helps magicians memorize the mathematical formula used in a mind-reading magic trick. |
 | 🖱️ [**Keyboard-mouse-cursor-control**](https://github.com/Benjikuo/Keyboard-mouse-cursor-control)               | A program let user control the cursor by using a keyboard. |
 | 📝 [**A-simple-desktop-note-tool**](https://github.com/Benjikuo/A-simple-desktop-note-tool)                     | A lightweight Python desktop note-taking program. **(My first open-source project)** |
