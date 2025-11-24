@@ -52,8 +52,8 @@
 <br>
 
 ### 📁 Project Portfolio
-| Project | Description | Tech |
-|---------|-------------|------|
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
 | 📊 [**Data-structure-visualization**](https://github.com/Benjikuo/Data-structure-visualization)                 | Interactive website for learning data structures         | HTML / CSS / JS / p5.js |
 | 🩶 [**Recursive-L-shape-fractal-animation**](https://github.com/Benjikuo/Recursive-L-shape-fractal-animation)   | Recursive L-shape fractal animation                      | HTML / CSS / JS / p5.js |
 | 🃏 [**A-desktop-card-tool-for-magic-tricks**](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks) | Digital playing-card generator for magic tricks          | Python (Tkinter) |
