@@ -51,7 +51,7 @@
 
 <br>
 
-### 📁 Featured Projects
+### 📁 Project Portfolio
 | Project | Description |
 |---------|-------------|
 | 📊 [**Data-structure-visualization**](https://github.com/Benjikuo/Data-structure-visualization)                 | An interactive website for learning data structures and algorithms. |
