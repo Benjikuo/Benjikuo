@@ -52,17 +52,19 @@
 <br>
 
 ### 📁 Project Portfolio
-| Project | Description |
-|---------|-------------|
-| 📊 [**Data-structure-visualization**](https://github.com/Benjikuo/Data-structure-visualization)                 | An interactive website for learning data structures and algorithms. |
-| 🃏 [**A-desktop-card-tool-for-magic-tricks**](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks) | This is a program that allows a magician to select a random or specific card on a computer desktop. |
-| ♟️ [**Play-chess-on-desktop**](https://github.com/Benjikuo/Play-chess-on-desktop)                               | A desktop program that lets users play chess either against others or a simple AI. |
-| 🎂 [**Digital-happy-birthday-card**](https://github.com/Benjikuo/Digital-happy-birthday-card)                   | A digital birthday card created with p5.js that can be viewed through a web link. |
-| 🎲 [**2D-dice-on-desktop**](https://github.com/Benjikuo/2D-dice-on-desktop)                                     | A small dice on desktop which can be thrown by clicking or dragging it. |
-| ✏️ [**Desktop-screen-pen**](https://github.com/Benjikuo/Desktop-screen-pen)                                     | A tool that allows users to draw anywhere on the screen. |
-| 🔢 [**Matrix-generator-for-magic-trick**](https://github.com/Benjikuo/Matrix-generator-for-magic-trick)         | It helps magicians memorize the mathematical formula used in a mind-reading magic trick. |
-| 🖱️ [**Keyboard-mouse-cursor-control**](https://github.com/Benjikuo/Keyboard-mouse-cursor-control)               | A program let user control the cursor by using a keyboard. |
-| 📝 [**A-simple-desktop-note-tool**](https://github.com/Benjikuo/A-simple-desktop-note-tool)                     | A lightweight Python desktop note-taking program. **(My first open-source project)** |
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📊 [**Data-structure-visualization**](https://github.com/Benjikuo/Data-structure-visualization)                 | Interactive website for learning data structures         | HTML / CSS / JS / p5.js |
+| 🩶 [**Recursive-L-shape-fractal-animation**](https://github.com/Benjikuo/Recursive-L-shape-fractal-animation)   | Recursive L-shape fractal animation                      | HTML / CSS / JS / p5.js |
+| 🃏 [**A-desktop-card-tool-for-magic-tricks**](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks) | Digital playing-card generator for magic tricks          | Python (Tkinter) |
+| ♟️ [**Play-chess-on-desktop**](https://github.com/Benjikuo/Play-chess-on-desktop)                               | Desktop chess app with simple AI                         | Python (Tkinter) |
+| 🎂 [**Digital-happy-birthday-card**](https://github.com/Benjikuo/Digital-happy-birthday-card)                   | Digital birthday card                                    | HTML / CSS / JS / p5.js |
+| 🎲 [**2D-dice-on-desktop**](https://github.com/Benjikuo/2D-dice-on-desktop)                                     | Interactive desktop dice                                 | Python (Tkinter) |
+| ✏️ [**Desktop-screen-pen**](https://github.com/Benjikuo/Desktop-screen-pen)                                     | On-screen drawing tool                                   | PySide2 / Qt |
+| 🔢 [**Matrix-generator-for-magic-trick**](https://github.com/Benjikuo/Matrix-generator-for-magic-trick)         | Matrix generator for magic trick systems                 | C++ |
+| 🖱️ [**Keyboard-mouse-cursor-control**](https://github.com/Benjikuo/Keyboard-mouse-cursor-control)               | Control mouse cursor using keyboard                      | AutoHotkey |
+| 📝 [**A-simple-desktop-note-tool**](https://github.com/Benjikuo/A-simple-desktop-note-tool)                     | Lightweight desktop note app (first open-source project) | Python (Tkinter) |
+
 
 <br>
 <br>
