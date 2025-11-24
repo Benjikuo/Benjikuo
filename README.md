@@ -60,7 +60,7 @@
 | ♟️ [**Play-chess-on-desktop**](https://github.com/Benjikuo/Play-chess-on-desktop)                               | Desktop chess app with simple AI                             | Python (Tkinter) |
 | 🎂 [**Digital-happy-birthday-card**](https://github.com/Benjikuo/Digital-happy-birthday-card)                   | Digital birthday card                                        | HTML / CSS / JS / p5.js |
 | 🎲 [**2D-dice-on-desktop**](https://github.com/Benjikuo/2D-dice-on-desktop)                                     | Interactive desktop dice                                     | Python (Tkinter) |
-| ✏️ [**Desktop-screen-pen**](https://github.com/Benjikuo/Desktop-screen-pen)                                     | On-screen drawing tool                                       | PySide2 / Qt |
+| ✏️ [**Desktop-screen-pen**](https://github.com/Benjikuo/Desktop-screen-pen)                                     | On-screen drawing tool                                       | Python (PySide2 / Qt) |
 | 🔢 [**Matrix-generator-for-magic-trick**](https://github.com/Benjikuo/Matrix-generator-for-magic-trick)         | Matrix generator for magic trick systems                     | C++ |
 | 🖱️ [**Keyboard-mouse-cursor-control**](https://github.com/Benjikuo/Keyboard-mouse-cursor-control)               | Control mouse cursor using keyboard                          | AutoHotkey |
 | 📝 [**A-simple-desktop-note-tool**](https://github.com/Benjikuo/A-simple-desktop-note-tool)                     | Lightweight desktop note app **(First open-source project)** | Python (Tkinter) |
