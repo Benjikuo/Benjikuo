@@ -32,7 +32,8 @@
 
 <br>
 
-- ⌛ **my_age** = 20  
+- 🕑 **my_age** = 20  
+ 
 - 💌 **relationship_status** = 'Single'  
 - 📋 **working_on** = ["./Data-structure-visualization/", "./Desktop-screen-pen/"]
 - 📖 **learning** = ["English", "Japanese", "Python", "Html", "CSS", "JavaScript"]  
