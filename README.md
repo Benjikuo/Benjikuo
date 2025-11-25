@@ -35,8 +35,8 @@
 - ⌛ **my_age** = 20  
 - 💌 **relationship_status** = 'Single'  
 - 📋 **working_on** = ["./Data-structure-visualization/", "./Desktop-screen-pen/"]
-- 📓 **learning** = ["English", "Japanese", "Python", "Html", "CSS", "JavaScript"]  
-- 🎯 **goal** = build_my_own_AI_desktop_assistant(year=2030)  
+- 📖 **learning** = ["English", "Japanese", "Python", "Html", "CSS", "JavaScript"]  
+- 🏁 **goal** = build_my_own_AI_desktop_assistant(year=2030)  
 
 <br>
 
