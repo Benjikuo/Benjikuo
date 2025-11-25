@@ -16,9 +16,9 @@
 <p align="center">
   &nbsp;
   Student
-  &nbsp;&nbsp;&nbsp;x&nbsp;&nbsp;&nbsp;
-  AI Enthusiast
-  &nbsp;&nbsp;&nbsp;x&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  Developer
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   Designer
 </p>
 
@@ -27,7 +27,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&#92;,,,,/&#92;  
 &gt;&nbsp; Love creating interesting programs just for fun! For example, I’ve made desktop toys using Python.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(╹ﻌ╹)   
-&gt;&nbsp; I also play the piano and perform magic tricks. They keep my hands flexible and my mind sharp!
+&gt;&nbsp; I also play the piano and perform magic tricks. They help me stay focused and maintain sharp thinking.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ᔐ/>🧩<\  
 
 <br>
