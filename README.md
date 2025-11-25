@@ -28,7 +28,7 @@
 &gt;&nbsp; Love creating interesting programs just for fun! For example, I’ve made desktop toys using Python.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ( &nbsp; • \_•)  
 &gt;&nbsp; I also play the piano and perform magic tricks. They help me stay focused and maintain sharp thinking.
-&nbsp;&nbsp;&nbsp; \/>♞ &nbsp;\\ &nbsp; ♚♛\_ \_ \_♙♗♖
+&nbsp;&nbsp;&nbsp; \/>♞ &nbsp;\\
 
 <br>
 
