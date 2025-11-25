@@ -22,7 +22,7 @@
   Designer
 </p>
 
-### 🧠 About Me  
+### 🧑🏻‍💻 About Me  
 &gt;&nbsp; Like thinking about challenging problems. That’s why I enjoy playing chess and solving puzzles.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&#92;,,,,/&#92;  
 &gt;&nbsp; Love creating interesting programs just for fun! For example, I’ve made desktop toys using Python.
