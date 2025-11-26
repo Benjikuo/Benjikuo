@@ -36,7 +36,7 @@
 - 🤍 **relationship_status** = false  
 - 📋 **working_on** = ["./Data-structure-visualization/", "./Desktop-screen-pen/"]
 - 📖 **learning** = ["English", "Japanese", "Python", "Html", "CSS", "JavaScript"]  
-- 🏁 **goal** = build_my_own_AI_desktop_assistant(year=2030)  
+- 🏁 **goal** = build_my_own_AI_desktop_assistant(year=2026)  
 
 <br>
 
