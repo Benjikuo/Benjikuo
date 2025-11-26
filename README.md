@@ -44,10 +44,10 @@
 
 | Type | ᔐ/ᐠ.~.ᐟ\ᵐᵉᵒʷˎˊ˗ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |------|------|
-| Languages | Mandarin / English |
-| Programming | C++ / Python / HTML |
-| Interests | Chess / Magic / Piano / Coding |
-| Coming soon | Japanese / Photography / Drawing anime figures |
+| Languages      | Mandarin / English |
+| Programming    | C++ / Python / HTML |
+| Interests      | Chess / Magic / Piano / Coding |
+| In development | Japanese / Photography / Drawing anime figures |
 
 <br>
 
