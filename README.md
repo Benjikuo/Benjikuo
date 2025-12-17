@@ -58,7 +58,6 @@
 | 🃏 [**A-desktop-card-tool-for-magic-tricks**](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks)         | Digital playing-card generator for magic tricks              | Python (Tkinter) |
 | ♟️ [**Play-chess-on-desktop**](https://github.com/Benjikuo/Play-chess-on-desktop)                                       | Desktop chess app with simple AI                             | Python (Tkinter) |
 | 🎂 [**Digital-happy-birthday-card**](https://github.com/Benjikuo/Digital-happy-birthday-card)                           | Digital birthday card                                        | HTML / CSS / JS / p5.js |
-|&nbsp;▙&nbsp; [**Recursive-L-shape-fractal-animation**](https://github.com/Benjikuo/Recursive-L-shape-fractal-animation) | Recursive L-shape fractal animation                          | HTML / CSS / JS / p5.js |
 | 🎲 [**2D-dice-on-desktop**](https://github.com/Benjikuo/2D-dice-on-desktop)                                             | Interactive desktop dice                                     | Python (Tkinter) |
 | ✏️ [**Desktop-screen-pen**](https://github.com/Benjikuo/Desktop-screen-pen)                                             | On-screen drawing tool                                       | Python (PySide2 / Qt) |
 | 🔢 [**Matrix-generator-for-magic-trick**](https://github.com/Benjikuo/Matrix-generator-for-magic-trick)                 | Matrix generator for magic trick systems                     | C++ |
