@@ -65,11 +65,11 @@
 <br>
 
 <p align="center">
-  /\ _ /\
+  /\ _ /\ &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;
   <br>
-  ( &nbsp; • _•)  
+  ( &nbsp; • ˬ•)   "I like chess & magic✨"
   <br>
-  / >♞ \
+  / >♞ \ &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;
 </p>
 
 <br>
