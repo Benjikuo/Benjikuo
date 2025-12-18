@@ -40,9 +40,9 @@
 
 <br>
 
-### 💾 My Skill Table
+### 💾 My Skill Table <sub>ᔐ/ᐠ.~.ᐟ\ᵐᵉᵒʷˎˊ˗ </sub>
 
-| Type | ᔐ/ᐠ.~.ᐟ\ᵐᵉᵒʷˎˊ˗ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Type | Data |
 |------|------|
 | Languages      | Mandarin / English |
 | Programming    | C++ / Python / HTML |
@@ -65,8 +65,16 @@
 | 🖱️ [**Keyboard-mouse-cursor-control**](https://github.com/Benjikuo/Keyboard-mouse-cursor-control)               | Control mouse cursor using keyboard                          | AutoHotkey |
 | 📝 [**A-simple-desktop-note-tool**](https://github.com/Benjikuo/A-simple-desktop-note-tool)                     | Lightweight desktop note app **(First open-source project)** | Python (Tkinter) |
 
-
 <br>
+
+<p align="center">
+  /\ _ /\
+  <br>
+  ( &nbsp; • _•)  
+  <br>
+   / >♞ \
+</p>
+
 <br>
 
 <p align="center"> © 2025 Benjamin Kuo — All rights reserved for <b>this repository</b>. </p>
