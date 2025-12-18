@@ -23,9 +23,9 @@
 </p>
 
 ### 🧑🏻‍💻 About Me  
-&gt;&nbsp; I like thinking about challenging problems. That’s why I enjoy playing chess and solving puzzles.
-&gt;&nbsp; I love creating interesting programs just for fun! For example, I’ve made desktop toys using Python.
-&gt;&nbsp; I also play the piano and perform magic tricks. They help me stay focused and maintain sharp thinking.
+&gt;&nbsp; I like thinking about challenging problems. That’s why I enjoy playing chess and solving puzzles.  
+&gt;&nbsp; I love creating interesting programs just for fun! For example, I’ve made desktop toys using Python.  
+&gt;&nbsp; I also play the piano and perform magic tricks. They help me stay focused and maintain sharp thinking.  
 
 <br>
 
@@ -37,7 +37,7 @@
 
 <br>
 
-### 💾 My Skill Table &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>ᔐ/ᐠ.~.ᐟ\ᵐᵉᵒʷˎˊ˗ </sub>
+### 💾 My Skill Table &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>ᔐ/ᐠ.~.ᐟ\ᵐᵉᵒʷˎˊ˗ </sub>
 
 | Type | Data |
 |------|------|
@@ -69,7 +69,7 @@
   <br>
   ( &nbsp; • _•)  
   <br>
-   / >♞ \
+  / >♞ \
 </p>
 
 <br>
