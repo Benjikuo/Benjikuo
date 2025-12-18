@@ -36,7 +36,7 @@
 - 🤍 **relationship_status** = false  
 - 📋 **working_on** = ["./Greenerx-website/"]
 - 📖 **learning** = ["English", "Japanese", "Python", "Html", "CSS", "JavaScript"]  
-- 🏁 **goal** = build_my_own_AI_desktop_assistant(year=2026)  
+- 🏁 **goal** = build_AI_desktop_assistant(year=2026)  
 
 <br>
 
