@@ -44,7 +44,7 @@
 | Languages   | Mandarin / English |
 | Programming | C++ / Python / HTML |
 | Interests   | Chess / Magic / Piano / Coding |
-| WIP         | Japanese / Photography / Drawing anime figures |
+| In progress | Japanese / Photography / Drawing anime figures |
 
 <br>
 
