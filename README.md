@@ -1,9 +1,9 @@
 <h1 align="center">
-  ,ˍˍˍ ,,ˍ ,,, ˍ
+  ............................................
   <br>
   <sub>Welcome.</sub>
   <br>
-  -'' --- &nbsp;'' -
+  ............................................
 </h1>
 
 <h3 align="center">
@@ -75,5 +75,5 @@
 <br>
 
 <p align="center"> © 2025 Benjamin Kuo — All rights reserved for <b>this repository</b>. </p>
-<p align="center"> Referenced projects are separate and may have different licenses. </p>
+<p align="center"> Referenced projects may have separate licenses. </p>
 
