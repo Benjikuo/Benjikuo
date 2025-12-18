@@ -1,9 +1,9 @@
 <h1 align="center">
-  .ˍˍˍ ..ˍ ... ˍ
+  ,ˍˍˍ ,,ˍ ,,, ˍ
   <br>
   <sub>Welcome.</sub>
   <br>
-  -·· --- &nbsp;·· -
+  -,, --- &nbsp;,, -
 </h1>
 
 <h3 align="center">
