@@ -37,7 +37,7 @@
 
 <br>
 
-### 💾 My Skill Table &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>ᔐ/ᐠ.~.ᐟ\ᵐᵉᵒʷˎˊ˗ </sub>
+### 💾 My Skill Table &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>ᔐ/ᐠ.~.ᐟ\ᵐᵉᵒʷˎˊ˗ </sub>
 
 | Type | Data |
 |------|------|
