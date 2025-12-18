@@ -68,7 +68,7 @@
 <p align="center">
   Λ _ Λ &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;1
   <br>
-  ( &nbsp; • ˬ•) &nbsp;&nbsp&nbsp;&nbsp; "I like chess."
+  ( &nbsp; • ˬ•) &nbsp;&nbsp&nbsp;&nbsp; "I like chess."&nbsp;
   <br>
   / >♞ \ &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;1
 </p>
