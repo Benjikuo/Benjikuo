@@ -41,10 +41,10 @@
 
 | Type | Data |
 |------|------|
-| Languages      | Mandarin / English |
-| Programming    | C++ / Python / HTML |
-| Interests      | Chess / Magic / Piano / Coding |
-| In development | Japanese / Photography / Drawing anime figures |
+| Languages   | Mandarin / English |
+| Programming | C++ / Python / HTML |
+| Interests   | Chess / Magic / Piano / Coding |
+| WIP         | Japanese / Photography / Drawing anime figures |
 
 <br>
 
