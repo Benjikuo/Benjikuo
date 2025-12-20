@@ -51,7 +51,7 @@
 ### 📁 Project Portfolio
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🍃 [**Greenerx-website**](https://github.com/Benjikuo/Greenerx-website)                                         | Website showcasing sustainable design and technology         | HTML / CSS / JS |
+| 🍃 [**Greenerx-website**](https://github.com/Benjikuo/Greenerx-website) (WIP)                                   | Website showcasing sustainable design and technology         | HTML / CSS / JS |
 | 📊 [**Data-structure-visualization**](https://github.com/Benjikuo/Data-structure-visualization)                 | Interactive website for learning data structures             | HTML / CSS / JS / p5.js |
 | 🃏 [**A-desktop-card-tool-for-magic-tricks**](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks) | Digital playing-card generator for magic tricks              | Python (Tkinter) |
 | ♟️ [**Play-chess-on-desktop**](https://github.com/Benjikuo/Play-chess-on-desktop)                               | Desktop chess app with simple AI                             | Python (Tkinter) |
