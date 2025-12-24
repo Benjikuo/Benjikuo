@@ -49,7 +49,7 @@
 <br>
 
 ### 📁 Project Portfolio
-Projects are grouped by **tech stack** and sorted by **difficulty** in descending order within each group.
+*Projects are grouped by "tech stack" and sorted by difficulty in descending order within each group.*
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
