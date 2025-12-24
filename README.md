@@ -49,6 +49,7 @@
 <br>
 
 ### 📁 Project Portfolio
+The projects below are grouped by tech stack and ranked by difficulty (descending).
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🍃 [**GreenerX-website**](https://github.com/Benjikuo/Greenerx-website) (WIP)                                   | Website showcasing sustainable design and technology         | HTML / CSS / JS |
