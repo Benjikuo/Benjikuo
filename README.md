@@ -32,7 +32,7 @@
 - 🕑 **my_age** = 20  
 - 🤍 **relationship_status** = false  
 - 📋 **working_on** = ["./Greenerx-website/"]
-- 📖 **learning** = ["English", "Japanese", "Python", "Html", "CSS", "JavaScript"]  
+- 📖 **learning** = ["English", "Japanese", "Python", "JavaScript"]  
 - 🏁 **goal** = build_AI_desktop_assistant(year=2026)  
 
 <br>
