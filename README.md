@@ -70,8 +70,8 @@ Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🤖 [**Local-ai-desktop-assistant**](https://github.com/Benjikuo/Local-ai-desktop-assistant)                     | An assistant helps me with some operations on my desktop     | python / ollama |
-| 🎼 [**Mondrian-music-game**](https://github.com/Benjikuo/Mondrian-music-game)                                   | A music game with Mondrian art style                         | HTML / CSS / JS / p5.js |
-| 📰 [**Telegram-news-report-assistant**](https://github.com/Benjikuo/Telegram-news-report-assistant)             | An assistant report news and manage homework & todo list     | python |
+| 🎼 [**Mondrian-music-visualizer**](https://github.com/Benjikuo/Mondrian-music-visualizer)                       | A music-driven visual project inspired by Mondrian’s art     | HTML / CSS / JS / p5.js |
+| 📰 [**Telegram-assistant-bot**](https://github.com/Benjikuo/Telegram-assistant-bot)                             | An assistant report news and manage homework & todo list     | python |
 
 <br>
 
