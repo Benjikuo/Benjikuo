@@ -57,7 +57,7 @@ Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
 | 📊 [**Data-structure-visualization**](https://github.com/Benjikuo/Data-structure-visualization)                 | Interactive website for learning data structures             | HTML / CSS / JS / p5.js |
 | 🎂 [**Digital-happy-birthday-card**](https://github.com/Benjikuo/Digital-happy-birthday-card) (WIP)             | Digital birthday card                                        | HTML / CSS / JS / p5.js |
 | 🃏 [**A-desktop-card-tool-for-magic-tricks**](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks) | Digital playing-card generator for magic tricks              | Python (Tkinter) |
-| ✏️ [**Desktop-screen-pen**](https://github.com/Benjikuo/Desktop-screen-pen)                                     | On-screen drawing tool                                       | Python (PySide2 / Qt) |
+| ✏️ [**Desktop-screen-pen**](https://github.com/Benjikuo/Desktop-screen-pen)                                     | On-screen drawing tool                                       | Python (PySide2 / Qt5) |
 | ♟️ [**Play-chess-on-desktop**](https://github.com/Benjikuo/Play-chess-on-desktop)                               | Desktop chess app with simple AI                             | Python (Tkinter) |
 | 📝 [**A-simple-desktop-note-tool**](https://github.com/Benjikuo/A-simple-desktop-note-tool)                     | Lightweight desktop note app **(First open-source project)** | Python (Tkinter) |
 | 🎲 [**2D-dice-on-desktop**](https://github.com/Benjikuo/2D-dice-on-desktop)                                     | Interactive desktop dice                                     | Python (Tkinter) |
