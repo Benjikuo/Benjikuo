@@ -53,7 +53,7 @@ Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🍃 [**GreenerX-website**](https://github.com/Benjikuo/Greenerx-website) (WIP)                                   | Website showcasing sustainable design and technology         | HTML / CSS / JS |
+| 🍃 [**GreenerX-website**](https://github.com/Benjikuo/Greenerx-website) (MVP)                                   | Website showcasing sustainable design and technology         | HTML / CSS / JS |
 | 📊 [**Data-structure-visualization**](https://github.com/Benjikuo/Data-structure-visualization)                 | Interactive website for learning data structures             | HTML / CSS / JS / p5.js |
 | 🎂 [**Digital-happy-birthday-card**](https://github.com/Benjikuo/Digital-happy-birthday-card) (WIP)             | Digital birthday card                                        | HTML / CSS / JS / p5.js |
 | 🃏 [**A-desktop-card-tool-for-magic-tricks**](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks) | Digital playing-card generator for magic tricks              | Python (Tkinter) |
