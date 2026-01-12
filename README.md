@@ -54,12 +54,12 @@ Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
 <br>
 
 <div>
-  <img src="https://github.com/Benjikuo/Data-structure-visualization/blob/main/assets/image/showcase.gif?raw=true" height="89" style="margin: 106px;" />
-  <img src="https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks/blob/main/image/showcase/showcase.gif?raw=true" height="89" style="margin: 26px;" />
-  <img src="https://github.com/Benjikuo/Desktop-screen-pen/raw/main/image/showcase/showcase.gif" height="89" style="margin: 26px;" />
-  <img src="https://github.com/Benjikuo/Play-chess-on-desktop/raw/main/image/preview.gif" height="89" style="margin: 26px;" />
-  <img src="https://github.com/Benjikuo/Matrix-generator-for-magic-trick/raw/main/image/showcase.gif" height="89" style="margin: 26px;" />
-  <img src="https://github.com/Benjikuo/Digital-happy-birthday-card/raw/main/image/showcase.gif" height="89" style="margin: 26px;" />
+  <img src="https://github.com/Benjikuo/Data-structure-visualization/blob/main/assets/image/showcase.gif?raw=true" height="89"/>
+  <img src="https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks/blob/main/image/showcase/showcase.gif?raw=true" height="90"/>
+  <img src="https://github.com/Benjikuo/Desktop-screen-pen/raw/main/image/showcase/showcase.gif" height="90"/>
+  <img src="https://github.com/Benjikuo/Play-chess-on-desktop/raw/main/image/preview.gif" height="90"/>
+  <img src="https://github.com/Benjikuo/Matrix-generator-for-magic-trick/raw/main/image/showcase.gif" height="90"/>
+  <img src="https://github.com/Benjikuo/Digital-happy-birthday-card/raw/main/image/showcase.gif" height="90"/>
 </div>
 
 | Project | Description | Tech Stack |
