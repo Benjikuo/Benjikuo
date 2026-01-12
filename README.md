@@ -50,12 +50,18 @@
 
 ### 📁 Project Portfolio
 <div>
-  <img src="https://github.com/Benjikuo/Data-structure-visualization/blob/main/assets/image/showcase.gif?raw=true" height="100" style="margin: 20px;" />
-  <img src="https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks/blob/main/image/showcase/showcase.gif?raw=true" height="100" style="margin: 20px;" />
-  <img src="https://github.com/Benjikuo/Desktop-screen-pen/raw/main/image/showcase/showcase.gif" height="100" style="margin: 20px;" />
-  <img src="https://github.com/Benjikuo/Play-chess-on-desktop/raw/main/image/preview.gif" height="100" style="margin: 20px;" />
-  <img src="https://github.com/Benjikuo/Matrix-generator-for-magic-trick/raw/main/image/showcase.gif" height="100" style="margin: 20px;" />
-  <img src="https://github.com/Benjikuo/Digital-happy-birthday-card/raw/main/image/showcase.gif" height="100" style="margin: 20px;" />
+  <div>
+    <img src="https://github.com/Benjikuo/Data-structure-visualization/blob/main/assets/image/showcase.gif?raw=true" height="100" style="margin: 20px;" />
+    <img src="https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks/blob/main/image/showcase/showcase.gif?raw=true" height="100" style="margin: 20px;" />
+  </div>
+  <div>
+    <img src="https://github.com/Benjikuo/Desktop-screen-pen/raw/main/image/showcase/showcase.gif" height="100" style="margin: 20px;" />
+    <img src="https://github.com/Benjikuo/Play-chess-on-desktop/raw/main/image/preview.gif" height="100" style="margin: 20px;" />
+  </div>
+  <div>
+    <img src="https://github.com/Benjikuo/Matrix-generator-for-magic-trick/raw/main/image/showcase.gif" height="100" style="margin: 20px;" />
+    <img src="https://github.com/Benjikuo/Digital-happy-birthday-card/raw/main/image/showcase.gif" height="100" style="margin: 20px;" />
+  </div>
 </div>
 
 <br>
