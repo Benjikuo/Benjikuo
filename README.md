@@ -49,16 +49,16 @@
 <br>
 
 ### 📁 Project Portfolio
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="https://github.com/Benjikuo/Data-structure-visualization/blob/main/assets/image/showcase.gif?raw=true" width="220" style="margin-right: 10px;" />
-  <img src="https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks/blob/main/image/showcase/showcase.gif?raw=true" width="220" style="margin-right: 10px;" />
-  <img src="https://github.com/Benjikuo/Desktop-screen-pen/raw/main/image/showcase/showcase.gif" width="220" style="margin-right: 10px;" />
-  <img src="https://github.com/Benjikuo/Play-chess-on-desktop/raw/main/image/preview.gif" width="220" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/Benjikuo/2D-dice-on-desktop/refs/heads/main/image/drag_animation.gif" width="220" style="margin-right: 10px;" />
-  <img src="https://github.com/Benjikuo/A-simple-desktop-note-tool/raw/main/images/color.gif?raw=true" width="220" style="margin-right: 10px;" />
-  <img src="https://github.com/Benjikuo/Matrix-generator-for-magic-trick/raw/main/image/showcase.gif" width="220" style="margin-right: 10px;" />
-  
+<div>
+  <img src="https://github.com/Benjikuo/Data-structure-visualization/blob/main/assets/image/showcase.gif?raw=true" height="100" style="margin: 20px;" />
+  <img src="https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks/blob/main/image/showcase/showcase.gif?raw=true" height="100" style="margin: 20px;" />
+  <img src="https://github.com/Benjikuo/Desktop-screen-pen/raw/main/image/showcase/showcase.gif" height="100" style="margin: 20px;" />
+  <img src="https://github.com/Benjikuo/Play-chess-on-desktop/raw/main/image/preview.gif" height="100" style="margin: 20px;" />
+  <img src="https://github.com/Benjikuo/Matrix-generator-for-magic-trick/raw/main/image/showcase.gif" height="100" style="margin: 20px;" />
 </div>
+
+<br>
+
 Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
 
 | Project | Description | Tech Stack |
