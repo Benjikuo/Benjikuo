@@ -80,7 +80,7 @@ Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
 ### 💡 Future Ideas
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🤖 [**Local-ai-desktop-assistant**](https://github.com/Benjikuo/Local-ai-desktop-assistant)                     | An assistant helps me with some operations on my desktop     | python / ollama |
+| 🤖 [**Local-ai-desktop-assistant**](https://github.com/Benjikuo/Local-ai-desktop-assistant)                     | An assistant helps me with some operations on my desktop     | python (PySide6 / Qt6) / ollama |
 | 📰 [**Telegram-assistant-bot**](https://github.com/Benjikuo/Telegram-assistant-bot)                             | An assistant report news and manage homework & todo list     | python |
 
 <br>
