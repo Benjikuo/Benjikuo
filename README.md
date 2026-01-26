@@ -22,6 +22,8 @@
   Designer
 </p>
 
+<img src="https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks/blob/main/image/showcase/showcase.gif?raw=true" height="200"/> ◁ A desktop tool that turns card magic systems into an interactive, programmable experience.
+
 ### 🧑🏻‍💻 About Me  
 &gt;&nbsp; I enjoy tackling challenging problems, which is why I like chess and puzzles.  
 &gt;&nbsp; I love creating fun programs. For example, I’ve built desktop toys with Python.  
