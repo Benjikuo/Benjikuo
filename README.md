@@ -22,7 +22,15 @@
   Designer
 </p>
 
-<img src="https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks/blob/main/image/showcase/showcase.gif?raw=true" height="200"/> ◁ A desktop tool that turns card magic systems into an interactive, programmable experience.
+### 📌 Featured Project
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Language](https://img.shields.io/badge/Language-Python-blue)
+<p><img src="https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks/blob/main/image/showcase/showcase.gif?raw=true" height="200"/></p>
+
+[**A-desktop-card-tool-for-magic-tricks**](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks)  
+A Python desktop tool that models card-magic logic as an interactive system.  
+
+<br>
 
 ### 🧑🏻‍💻 About Me  
 &gt;&nbsp; I enjoy tackling challenging problems, which is why I like chess and puzzles.  
