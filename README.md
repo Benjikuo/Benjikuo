@@ -41,7 +41,7 @@ A Python desktop tool that models card-magic logic as an interactive system.
 
 - 🕑 **my_age** = 20  
 - 📋 **working_on** = ["./youtube channel?/"]
-- 📖 **learning** = ["English", "Japanese", "Python", "JavaScript"]  
+- 📖 **learning** = ["English", "Python", "magic"]  
 - 🏁 **goal** = build_AI_desktop_assistant(year=2026)  
 
 <br>
@@ -53,7 +53,7 @@ A Python desktop tool that models card-magic logic as an interactive system.
 | Languages   | Mandarin / English |
 | Programming | C++ / Python / HTML |
 | Interests   | Chess / Magic / Piano / Coding |
-| In progress | Japanese / Photography / Drawing anime figures |
+| Planned     | Japanese / Photography / Drawing anime figures |
 
 <br>
 
