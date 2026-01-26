@@ -40,8 +40,7 @@ A Python desktop tool that models card-magic logic as an interactive system.
 <br>
 
 - 🕑 **my_age** = 20  
-- 🤍 **relationship_status** = false  
-- 📋 **working_on** = ["./Local-ai-desktop-assistant/"]
+- 📋 **working_on** = ["./youtube channel?/"]
 - 📖 **learning** = ["English", "Japanese", "Python", "JavaScript"]  
 - 🏁 **goal** = build_AI_desktop_assistant(year=2026)  
 
