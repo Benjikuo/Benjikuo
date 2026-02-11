@@ -15,11 +15,11 @@
 
 <p align="center">
   &nbsp;
-  Student
+  Interactive Systems
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  Developer
+  Game Logic
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  Designer
+  AI (in progress)
 </p>
 
 ### 📌 Featured Project
@@ -28,7 +28,7 @@
 <p><img src="https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks/blob/main/image/showcase/showcase.gif?raw=true" height="200"/></p>
 
 [**A-desktop-card-tool-for-magic-tricks**](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks)  
-A Python desktop tool that models card-magic logic as an interactive system.  
+Designed around an event-driven Tkinter loop with a modular object model for card grouping and state transitions.
 
 <br>
 
@@ -73,14 +73,14 @@ Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🍃 [**GreenerX-website**](https://github.com/Benjikuo/Greenerx-website) (MVP)                                   | Website showcasing sustainable design and technology         | HTML / CSS / JS |
-| 📊 [**Data-structure-visualization**](https://github.com/Benjikuo/Data-structure-visualization)                 | Interactive website for learning data structures             | HTML / CSS / JS (p5.js) |
-| 🎂 [**Digital-happy-birthday-card**](https://github.com/Benjikuo/Digital-happy-birthday-card) (WIP)             | Digital birthday card                                        | HTML / CSS / JS (p5.js) |
 | 🃏 [**A-desktop-card-tool-for-magic-tricks**](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks) | Digital playing-card generator for magic tricks              | Python (Tkinter) |
 | ✏️ [**Desktop-screen-pen**](https://github.com/Benjikuo/Desktop-screen-pen)                                     | On-screen drawing tool                                       | Python (PySide2 / Qt5) |
 | ♟️ [**Play-chess-on-desktop**](https://github.com/Benjikuo/Play-chess-on-desktop)                               | Desktop chess app with simple AI                             | Python (Tkinter) |
 | 📝 [**A-simple-desktop-note-tool**](https://github.com/Benjikuo/A-simple-desktop-note-tool)                     | Lightweight desktop note app **(First open-source project)** | Python (Tkinter) |
 | 🎲 [**2D-dice-on-desktop**](https://github.com/Benjikuo/2D-dice-on-desktop)                                     | Interactive desktop dice                                     | Python (Tkinter) |
+| 📊 [**Data-structure-visualization**](https://github.com/Benjikuo/Data-structure-visualization)                 | Interactive website for learning data structures             | HTML / CSS / JS (p5.js) |
+| 🍃 [**GreenerX-website**](https://github.com/Benjikuo/Greenerx-website) (MVP)                                   | Website showcasing sustainable design and technology         | HTML / CSS / JS |
+| 🎂 [**Digital-happy-birthday-card**](https://github.com/Benjikuo/Digital-happy-birthday-card) (WIP)             | Digital birthday card                                        | HTML / CSS / JS (p5.js) |
 | 🔢 [**Matrix-generator-for-magic-trick**](https://github.com/Benjikuo/Matrix-generator-for-magic-trick)         | Matrix generator for magic trick systems                     | C++ |
 | 🖱️ [**Keyboard-mouse-cursor-control**](https://github.com/Benjikuo/Keyboard-mouse-cursor-control)               | Control mouse cursor using keyboard                          | AutoHotkey |
 
