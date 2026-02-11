@@ -33,7 +33,7 @@ Designed around an event-driven Tkinter loop with a modular object model for car
 <br>
 
 ### 🧑🏻‍💻 About Me  
-&gt;&nbsp; I build interactive systems that combine logical structure with visual design.  
+&gt;&nbsp; I design interactive desktop systems with explicit state modeling and modular object architecture.  
 &gt;&nbsp; My projects often involve state management, object-oriented modeling, and real-time user interaction in desktop applications.  
 &gt;&nbsp; Chess and magic influence how I approach systems, focusing on rules, state transitions, and predictable outcomes.
 
