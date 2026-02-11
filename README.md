@@ -94,7 +94,7 @@ Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
 <p align="center">
   Λ _ Λ &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
   <br>
-  &nbsp;( &nbsp; • ˬ•) &nbsp;&nbsp&nbsp;&nbsp; "I like <a href="https://www.chess.com/members/search?phrase=benjikuo">chess<a>."
+  &nbsp;( &nbsp; • ˬ•) &nbsp;&nbsp&nbsp;&nbsp; "I like <a href="https://www.chess.com/members/search?phrase=benjikuo&country=134">chess<a>."
   <br>
   / >♞ \ &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
