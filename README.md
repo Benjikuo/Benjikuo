@@ -100,4 +100,4 @@ Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
 </p>
 
 <p align="center"> Let me show you a magic trick: </p>
-<p align="center"> Deal **seven cards**. There will likely be at least **one pair**. </p>
+<p align="center"> Deal <b>seven cards</b>. There will likely be at least <b>one pair</b>. </p>
