@@ -99,3 +99,5 @@ Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
   / >♞ \ &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center"> Let me show you a magic trick: </p>
+<p align="center"> Deal **seven cards**. There will likely be at least **one pair**. </p>
