@@ -1,5 +1,5 @@
 <h1 align="center">
-  ,, ,,, ..., , &nbsp; , ,,, &nbsp; .,, .. ,.
+  ,, ,,, ..., . &nbsp; , ,,, &nbsp; .,, .. ,.
   <br>
   <sub>Welcome.</sub>
   <br>
