@@ -101,8 +101,3 @@ Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
   / >♞ \ &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
-
-<p align="center"> © 2025 Benjamin Kuo — All rights reserved for <b>this repository</b>. </p>
-<p align="center"> Referenced projects may have separate licenses. </p>
-
