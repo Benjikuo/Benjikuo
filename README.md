@@ -33,16 +33,16 @@ Designed around an event-driven Tkinter loop with a modular object model for car
 <br>
 
 ### 🧑🏻‍💻 About Me  
-&gt;&nbsp; I enjoy tackling challenging problems, which is why I like chess and puzzles.  
-&gt;&nbsp; I love creating fun programs. For example, I’ve built desktop toys with Python.  
-&gt;&nbsp; I also play the piano and perform magic tricks, which help me stay focused and sharp.  
+&gt;&nbsp; I build interactive systems that combine logical structure with visual design.  
+&gt;&nbsp; My projects often involve state management, object-oriented modeling, and real-time user interaction in desktop applications.  
+&gt;&nbsp; Chess and magic influence how I approach systems — thinking in terms of rules, state transitions, and controlled outcomes.  
 
 <br>
 
 - 🕑 **my_age** = 20  
-- 📋 **working_on** = ["./youtube channel?/"]
-- 📖 **learning** = ["English", "Python", "magic"]  
-- 🏁 **goal** = build_AI_desktop_assistant(year=2026)  
+- 📋 **working_on** = "TOFEL test"
+- 📖 **currently_learning** = ["AI systems", "advanced Python"]  
+- 🏁 **goal** = build_an_AI-powered_interactive_desktop_system(year=2026)  
 
 <br>
 
