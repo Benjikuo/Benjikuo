@@ -28,14 +28,14 @@
 <p><img src="https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks/blob/main/image/showcase/showcase.gif?raw=true" height="200"/></p>
 
 [**A-desktop-card-tool-for-magic-tricks**](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks)  
-Designed around an event-driven Tkinter loop with a modular object model for card grouping and state transitions.
+Built an event-driven Tkinter desktop tool with an OOP model for card grouping and managed interaction states.
 
 <br>
 
 ### 🧑🏻‍💻 About Me  
-&gt;&nbsp; I design interactive desktop systems with explicit state modeling and modular object architecture.  
-&gt;&nbsp; My projects often involve state management, object-oriented modeling, and real-time user interaction in desktop applications.  
-&gt;&nbsp; Chess and magic influence how I approach systems, focusing on rules, state transitions, and predictable outcomes.
+&gt;&nbsp; I build interactive desktop systems with event-driven architecture and modular object-oriented design.  
+&gt;&nbsp; My work emphasizes structured system logic and deterministic state handling, with an organized and maintainable codebase.  
+&gt;&nbsp; Chess and magic influence how I design systems, emphasizing clear rules, controlled transitions, and predictable behavior.  
 
 - 📖 **currently_learning** = ["AI system integration", "advanced Python"]
 - 🏁 **2026_goal** = "Build an AI-powered interactive desktop system"
@@ -87,7 +87,7 @@ Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
 ### 🚧 Currently Building
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🤖 [**Local-ai-desktop-assistant**](https://github.com/Benjikuo/Local-ai-desktop-assistant)                     | An assistant helps me with some operations on my desktop     | python (PySide6 / Qt6) / ollama |
+| 🤖 [**Local-ai-desktop-assistant**](https://github.com/Benjikuo/Local-ai-desktop-assistant)                     | Event-driven Qt desktop app integrating a local LLM via HTTP with persistent on-device state. | python (PySide6 / Qt6) / ollama |
 
 <br>
 
@@ -99,5 +99,5 @@ Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
   / >♞ \ &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center"> Let me show you a magic trick: </p>
+<p align="center"> Let me show you a <b>magic trick</b>: </p>
 <p align="center"> Deal <b>seven cards</b>. There will likely be at least <b>one pair</b>. </p>
