@@ -37,8 +37,6 @@ Designed around an event-driven Tkinter loop with a modular object model for car
 &gt;&nbsp; My projects often involve state management, object-oriented modeling, and real-time user interaction in desktop applications.  
 &gt;&nbsp; Chess and magic influence how I approach systems, focusing on rules, state transitions, and predictable outcomes.
 
-<br>
-
 - 📖 **currently_learning** = ["AI system integration", "advanced Python"]
 - 🏁 **2026_goal** = "Build an AI-powered interactive desktop system"
 
