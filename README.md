@@ -53,7 +53,7 @@ Designed around an event-driven Tkinter loop with a modular object model for car
 | AI Exposure       | Local LLM integration (Ollama) |
 | Tools             | Tkinter / PySide / p5.js |
 
-Outside of coding: Chess / Magic / Piano &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ᔐ/ᐠ.~.ᐟ\ᵐᵉᵒʷˎˊ˗
+Outside of coding: Chess / Magic / Piano &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ᔐ/ᐠ.~.ᐟ\ᵐᵉᵒʷˎˊ˗
 
 <br>
 
