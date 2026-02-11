@@ -39,21 +39,21 @@ Designed around an event-driven Tkinter loop with a modular object model for car
 
 <br>
 
-- 🕑 **my_age** = 20  
-- 📋 **working_on** = "TOFEL test"
-- 📖 **currently_learning** = ["AI systems", "advanced Python"]  
-- 🏁 **goal** = build_an_AI-powered_interactive_desktop_system(year=2026)  
+- 📖 **currently_learning** = ["AI system integration", "advanced Python"]
+- 🏁 **2026_goal** = "Build an AI-powered interactive desktop system"
 
 <br>
 
-### 💾 My Skill Table &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>ᔐ/ᐠ.~.ᐟ\ᵐᵉᵒʷˎˊ˗ </sub>
+### 💾 My Skill Table
 
-| Type | Data |
-|------|------|
-| Languages   | Mandarin / English |
-| Programming | C++ / Python / HTML |
-| Interests   | Chess / Magic / Piano / Coding |
-| Planned     | Japanese / Photography / Drawing anime figures |
+| Category          | Details |
+|-------------------|---------|
+| Programming       | Python / C++ / HTML / JS |
+| Engineering Focus | Interactive UI / State Management / Game Logic |
+| AI Exposure       | Local LLM integration (Ollama) |
+| Tools             | Tkinter / PySide / p5.js |
+
+Outside of coding: Chess / Magic / Piano &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ᔐ/ᐠ.~.ᐟ\ᵐᵉᵒʷˎˊ˗
 
 <br>
 
@@ -86,11 +86,10 @@ Projects are grouped by tech stack and ranked by difficulty (highest to lowest).
 
 <br>
 
-### 💡 Future Ideas
+### 🚧 Currently Building
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🤖 [**Local-ai-desktop-assistant**](https://github.com/Benjikuo/Local-ai-desktop-assistant)                     | An assistant helps me with some operations on my desktop     | python (PySide6 / Qt6) / ollama |
-| 📰 [**Telegram-assistant-bot**](https://github.com/Benjikuo/Telegram-assistant-bot)                             | An assistant report news and manage homework & todo list     | python |
 
 <br>
 
