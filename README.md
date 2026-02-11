@@ -19,7 +19,7 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   Game Logic
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  AI (in progress)
+  AI (WIP)
 </p>
 
 ### 📌 Featured Project
