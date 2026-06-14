@@ -67,7 +67,7 @@ Outside of coding: Chess / Magic / Piano &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 📈 [**Student-workload-mining**](https://github.com/Benjikuo/Student-workload-mining)                           | Homework workload analysis and high-workload week prediction | Python (Jupyter) |
+| 📈 [**Student-workload-mining**](https://github.com/Benjikuo/Student-workload-mining)                           | Homework workload analysis and prediction                    | Python (Jupyter) |
 | 📊 [**Data-structure-visualization**](https://github.com/Benjikuo/Data-structure-visualization)                 | Interactive website for learning data structures             | HTML / CSS / JS (p5.js) |
 | 🃏 [**A-desktop-card-tool-for-magic-tricks**](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks) | Digital playing-card generator for magic tricks              | Python (Tkinter) |
 | ✏️ [**Desktop-screen-pen**](https://github.com/Benjikuo/Desktop-screen-pen)                                     | On-screen drawing tool                                       | Python (PySide2 / Qt5) ||
