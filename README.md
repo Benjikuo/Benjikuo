@@ -33,9 +33,9 @@ Built an event-driven Tkinter desktop tool with an OOP model for card grouping a
 <br>
 
 ### 🧑🏻‍💻 About Me  
-&gt;&nbsp; I build interactive desktop systems with event-driven architecture and modular object-oriented design.  
-&gt;&nbsp; My work emphasizes structured system logic and deterministic state handling, with an organized and maintainable codebase.  
-&gt;&nbsp; Chess and magic influence how I design systems, emphasizing clear rules, controlled transitions, and predictable behavior.  
+&gt;&nbsp; I build interactive desktop systems with event-driven architecture.  
+&gt;&nbsp; I design modular, maintainable code with deterministic state handling.  
+&gt;&nbsp; Chess and magic shape how I think: clear rules, controlled transitions, and predictable behavior.  
 
 - 📖 **currently_learning** = ["AI system integration", "advanced Python"]
 - 🏁 **2026_goal** = "Build an AI-powered interactive desktop system"
