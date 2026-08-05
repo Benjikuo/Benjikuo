@@ -37,19 +37,20 @@ Built an event-driven Tkinter desktop tool with an OOP model for card grouping a
 &gt;&nbsp; I design modular, maintainable code with deterministic state handling.  
 &gt;&nbsp; Chess and magic shape how I think: careful sequencing, and the ability to adapt on the fly.
 
-- 📖 **currently_learning** = ["AI system integration", "advanced Python"]
-- 🏁 **2026_goal** = "Build an AI-powered interactive desktop system"
+📖 **currently_learning** = ["AI system integration", "advanced Python"]  
+🏁 **2026_goal** = "Build an AI-powered interactive desktop system"  
 
 <br>
 
 ### 💾 My Skill Table
 
-| Category          | Details |
-|-------------------|---------|
-| Programming       | Python / C++ / HTML / CSS / JS |
-| Engineering Focus | Interactive UI / State Management / Game Logic |
-| AI Exposure       | Local LLM integration (Ollama) |
-| Tools             | Tkinter / PySide / p5.js |
+| Category               | Details |
+|------------------------|---------|
+| Programming            | Python / C++ / HTML / CSS / JS |
+| Engineering Focus      | Interactive UI / State Management / Game Logic |
+| AI Exposure            | Local LLM integration (Ollama) |
+| Frameworks & Libraries | Tkinter / PySide / p5.js |
+| Development Tools      | VS Code / Jupyter Notebook / Git |
 
 Outside of coding: Chess / Magic / Piano &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ᔐ/ᐠ.~.ᐟ\ᵐᵉᵒʷˎˊ˗
 
