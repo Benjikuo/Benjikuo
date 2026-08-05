@@ -35,7 +35,7 @@ Built an event-driven Tkinter desktop tool with an OOP model for card grouping a
 ### 🧑🏻‍💻 About Me  
 &gt;&nbsp; I build interactive desktop systems with event-driven architecture.  
 &gt;&nbsp; I design modular, maintainable code with deterministic state handling.  
-&gt;&nbsp; Chess and magic shape how I think: clear rules, controlled transitions, and predictable behavior.  
+&gt;&nbsp; Chess and magic shape how I think: careful sequencing, and the ability to adapt on the fly.
 
 - 📖 **currently_learning** = ["AI system integration", "advanced Python"]
 - 🏁 **2026_goal** = "Build an AI-powered interactive desktop system"
@@ -46,7 +46,7 @@ Built an event-driven Tkinter desktop tool with an OOP model for card grouping a
 
 | Category          | Details |
 |-------------------|---------|
-| Programming       | Python / C++ / HTML / JS |
+| Programming       | Python / C++ / HTML / CSS / JS |
 | Engineering Focus | Interactive UI / State Management / Game Logic |
 | AI Exposure       | Local LLM integration (Ollama) |
 | Tools             | Tkinter / PySide / p5.js |
@@ -72,11 +72,9 @@ Outside of coding: Chess / Magic / Piano &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 | 🃏 [**A-desktop-card-tool-for-magic-tricks**](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks) | Digital playing-card generator for magic tricks              | Python (Tkinter) |
 | ✏️ [**Desktop-screen-pen**](https://github.com/Benjikuo/Desktop-screen-pen)                                     | On-screen drawing tool                                       | Python (PySide2 / Qt5) ||
 | ♟️ [**Play-chess-on-desktop**](https://github.com/Benjikuo/Play-chess-on-desktop)                               | Desktop chess app with simple AI                             | Python (Tkinter) |
-| 🔢 [**Matrix-generator-for-magic-trick**](https://github.com/Benjikuo/Matrix-generator-for-magic-trick)         | Matrix generator for magic trick systems                     | C++ |
-| 🎂 [**Digital-happy-birthday-card**](https://github.com/Benjikuo/Digital-happy-birthday-card) (WIP)             | Digital birthday card                                        | HTML / CSS / JS (p5.js) 
 | 📝 [**A-simple-desktop-note-tool**](https://github.com/Benjikuo/A-simple-desktop-note-tool)                     | Lightweight desktop note app **(First open-source project)** | Python (Tkinter) |
 | 🎲 [**2D-dice-on-desktop**](https://github.com/Benjikuo/2D-dice-on-desktop)                                     | Interactive desktop dice                                     | Python (Tkinter) |
-| 🍃 [**GreenerX-website**](https://github.com/Benjikuo/Greenerx-website) (MVP)                                   | Website showcasing sustainable design and technology         | HTML / CSS / JS |
+| 🔢 [**Matrix-generator-for-magic-trick**](https://github.com/Benjikuo/Matrix-generator-for-magic-trick)         | Matrix generator for magic trick systems                     | C++ | 
 | 🖱️ [**Keyboard-mouse-cursor-control**](https://github.com/Benjikuo/Keyboard-mouse-cursor-control)               | Control mouse cursor using keyboard                          | AutoHotkey |
 
 <br>
